@@ -49,14 +49,14 @@ I looked through some of the JavaScript random documentation along with JavaScri
 random function that I generated as I prefered being able to manually choose the pattern and I wanted to turn in the most fun
 version of the game that I could create. 
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-I spent a good portion of my time working on this project experimenting with some of the optional features
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it?  
+I spent a good portion of my time working on this project experimenting with some of the optional features including but not limited to the images on the tiles and having the pattern be randomly decided. From an optimal play perspective I did not like how the images looked in the way that I implemented them. In terms of the random function I thought it was much more interesting being able to dictate the pattern myself and I liked the flexibility that having the manual option provided. In deciding which optional features to implement I talked to 9 different users who were all college aged students like myself and had them try the game out for themselves. This allowed me to gain a better understanding of what the tiles should be, what colors to include, and how fast or slow to have the game pace. As a result, my answer to the question in optimizing the game was talking to users and understanding their perspectives rather than allowing my assumptions to run free. 
 
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+3. What questions about web development do you have after completing your submission? 
+My main question that I have is how to go from the code that I have on glitch to an actual functioning website. I realize that there are a wide variety of server services including AWS, Google Cloud, and Amazon Azure, but I have yet to deep dive into how to actually deploy something. From there I also would love to have a better perspective on some of the modern developments in the field of web development. I know that the MERN stack has proven to be quite popular, but new frameworks like Next.js have also from what I have seen shown themselves to be incredibly useful and time saving. A final question would be what is the future of web development. With no code tools being more popular by the day, will we eventually see a future where the web will operate on no code? How will web development play into web3 and how will it play into the metaverse? There are also so many web development specific questions like how to connect a front end to a back end to explore, but I think I reached enough here. 
 
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. 
+If I had a few more hours to work on this project I would experiment with some of the sound systems. I would want to create custom sounds rather than relying on the frequency map. In order to do so my best guess would be that I would need to import some of the custom sounds into the assets folder. From there I am unsure on whether I could directly link those into the frequency map or if I would have to find a work around. The thing is I am a big fan of the linear progression in the sounds so the custom sounds would have to follow the current pattern of low frequencies to high frequencies.
 
 
 
