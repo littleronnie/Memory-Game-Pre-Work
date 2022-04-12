@@ -62,7 +62,7 @@ If I had a few more hours to work on this project I would experiment with some o
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://drive.google.com/file/d/1YmFSpZ7p_iaCeszwlXOPVlxOrpA-gKk8/view?usp=sharing)
+[My 5-minute Interview Recording](https://youtu.be/AFu1-CRvfrE)
 
 
 ## License
